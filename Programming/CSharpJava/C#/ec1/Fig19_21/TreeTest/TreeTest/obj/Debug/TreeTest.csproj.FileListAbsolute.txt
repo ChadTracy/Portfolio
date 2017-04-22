@@ -1,0 +1,15 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_21\TreeTest\TreeTest\bin\Debug\TreeTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_21\TreeTest\TreeTest\bin\Debug\TreeTest.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_21\TreeTest\TreeTest\bin\Debug\BinaryTreeLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_21\TreeTest\TreeTest\bin\Debug\BinaryTreeLibrary.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_21\TreeTest\TreeTest\obj\Debug\TreeTest.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_21\TreeTest\TreeTest\obj\Debug\TreeTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_21\TreeTest\TreeTest\obj\Debug\TreeTest.pdb
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\ec1\Fig19_21\TreeTest\TreeTest\obj\Debug\TreeTest.exe
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\ec1\Fig19_21\TreeTest\TreeTest\obj\Debug\TreeTest.pdb
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\ec1\Fig19_21\TreeTest\TreeTest\bin\Debug\TreeTest.pdb
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\ec1\Fig19_21\TreeTest\TreeTest\obj\Debug\TreeTest.csprojResolveAssemblyReference.cache
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\ec1\Fig19_21\TreeTest\TreeTest\bin\Debug\LinkedListLibrary.dll
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\ec1\Fig19_21\TreeTest\TreeTest\bin\Debug\QueueInheritanceLibrary.dll
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\ec1\Fig19_21\TreeTest\TreeTest\bin\Debug\LinkedListLibrary.pdb
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\ec1\Fig19_21\TreeTest\TreeTest\bin\Debug\QueueInheritanceLibrary.pdb

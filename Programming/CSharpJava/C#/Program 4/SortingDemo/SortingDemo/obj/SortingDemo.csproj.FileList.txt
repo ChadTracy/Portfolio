@@ -1,0 +1,5 @@
+bin\Debug\SortingDemo.exe
+bin\Debug\SortingDemo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SortingDemo.exe
+obj\Debug\SortingDemo.pdb

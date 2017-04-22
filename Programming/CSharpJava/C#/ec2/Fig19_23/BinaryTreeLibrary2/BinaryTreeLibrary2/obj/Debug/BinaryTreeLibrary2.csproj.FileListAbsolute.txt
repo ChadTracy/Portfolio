@@ -1,0 +1,8 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_23\BinaryTreeLibrary2\BinaryTreeLibrary2\bin\Debug\BinaryTreeLibrary2.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_23\BinaryTreeLibrary2\BinaryTreeLibrary2\bin\Debug\BinaryTreeLibrary2.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_23\BinaryTreeLibrary2\BinaryTreeLibrary2\obj\Debug\BinaryTreeLibrary2.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_23\BinaryTreeLibrary2\BinaryTreeLibrary2\obj\Debug\BinaryTreeLibrary2.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_23\BinaryTreeLibrary2\BinaryTreeLibrary2\obj\Debug\BinaryTreeLibrary2.pdb
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\ec2\Fig19_23\BinaryTreeLibrary2\BinaryTreeLibrary2\obj\Debug\BinaryTreeLibrary2.csprojResolveAssemblyReference.cache
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\ec2\Fig19_23\BinaryTreeLibrary2\BinaryTreeLibrary2\obj\Debug\BinaryTreeLibrary2.dll
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\ec2\Fig19_23\BinaryTreeLibrary2\BinaryTreeLibrary2\obj\Debug\BinaryTreeLibrary2.pdb

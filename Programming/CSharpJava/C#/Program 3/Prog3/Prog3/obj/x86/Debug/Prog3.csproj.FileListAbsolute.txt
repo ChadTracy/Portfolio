@@ -1,0 +1,27 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog3\Prog3\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog3\Prog3\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.Prog3Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog3\Prog3\obj\x86\Debug\Prog3.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog3\Prog3\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog3\Prog3\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.SelectPatronForm.resources
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\obj\x86\Debug\Prog2.exe
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\obj\x86\Debug\Prog2.pdb
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\bin\Debug\Prog2.exe
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\bin\Debug\Prog2.pdb
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\obj\x86\Debug\Prog3.csprojResolveAssemblyReference.cache
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\obj\x86\Debug\LibraryItems.Prog3Form.resources
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\obj\x86\Debug\LibraryItems.SelectPatronForm.resources
+C:\Users\Ched\Dropbox (Personal)\STUDY FILES\CIS 200\Assignments\Program 3\Prog3\Prog3\obj\x86\Debug\Prog3.csproj.GenerateResource.Cache

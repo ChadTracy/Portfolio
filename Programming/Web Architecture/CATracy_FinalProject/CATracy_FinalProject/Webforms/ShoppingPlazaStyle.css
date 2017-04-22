@@ -1,0 +1,51 @@
+﻿body {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 85%;
+    width: 900px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: lightgrey;
+    border: 2px solid;
+}
+h1 {
+    font-size: 140%;
+    padding: 0;
+    margin-bottom: .5em;
+    color:olivedrab;
+}
+label {
+    float: left;
+    width: 10em;
+}
+
+/* The styles for the classes */
+.entry {
+    margin-left: 1em;
+    margin-bottom: .5em;
+    width: 10em;
+}
+.validator {
+    font-size: 95%;
+    color: red;
+    margin-left: 1em;
+}
+.mybutton {
+    margin-top: 1em;
+    width: 15em;
+}
+
+/* Specific extra styles for some elements */
+#ExitBtn{
+    
+    color:orangered;
+}
+
+#AddItemBtn{
+    margin-left:10em;
+}
+
+#MessageLbl{
+    font-size:110%;
+    color:red
+}
+

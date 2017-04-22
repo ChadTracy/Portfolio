@@ -1,0 +1,9 @@
+C:\Users\alwrig01.ALW_X61\Documents\Teaching\CIS202\CIS202_07F\ClassDemos\SortingDemo\SortingDemo\obj\Debug\SortingDemo.exe
+C:\Users\alwrig01.ALW_X61\Documents\Teaching\CIS202\CIS202_07F\ClassDemos\SortingDemo\SortingDemo\obj\Debug\SortingDemo.pdb
+C:\Users\alwrig01.ALW_X61\Documents\Teaching\CIS202\CIS202_08S\SortingDemo\SortingDemo\obj\Debug\SortingDemo.exe
+C:\Users\alwrig01.ALW_X61\Documents\Teaching\CIS202\CIS202_08S\SortingDemo\SortingDemo\obj\Debug\SortingDemo.pdb
+C:\Users\alwrig01.ALW_X61\Documents\Teaching\CIS202\CIS202_08S\SortingDemo\SortingDemo\bin\Debug\SortingDemo.exe
+C:\Users\alwrig01.ALW_X61\Documents\Teaching\CIS202\CIS202_08S\SortingDemo\SortingDemo\bin\Debug\SortingDemo.pdb
+C:\Users\alwrig01.ALW_X61\Documents\Teaching\CIS202\CIS202_08S\SortingDemo\SortingDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alwrig01.ALW_X61\Documents\Teaching\CIS202\CIS202_08S\ClassDemos\SortingDemo\SortingDemo\obj\Debug\SortingDemo.exe
+C:\Users\alwrig01.ALW_X61\Documents\Teaching\CIS202\CIS202_08S\ClassDemos\SortingDemo\SortingDemo\obj\Debug\SortingDemo.pdb
